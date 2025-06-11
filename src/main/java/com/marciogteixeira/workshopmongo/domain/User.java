@@ -1,4 +1,4 @@
-package com.marciogteixeira.worksopmongo.domain;
+package com.marciogteixeira.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.Objects;

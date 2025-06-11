@@ -1,4 +1,4 @@
-package com.marciogteixeira.worksopmongo;
+package com.marciogteixeira.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
